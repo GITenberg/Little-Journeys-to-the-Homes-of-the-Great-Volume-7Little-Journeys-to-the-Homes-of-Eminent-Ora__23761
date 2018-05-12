@@ -1,0 +1,35 @@
+_repo: Little-Journeys-to-the-Homes-of-the-Great-Volume-7Little-Journeys-to-the-Homes-of-Eminent-Ora__23761
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Elbertus, Fra
+    - Ali Baba
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_issued: '2007-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Orators'
+tableOfContents: Pericles -- Mark Antony -- Savonarola -- Martin Luther -- Edmund
+  Burke -- William Pitt -- Jean Paul Marat -- Robert Ingersoll -- Patrick Henry --
+  Starr King -- Henry Ward Beecher -- Wendell Phillips.
+title: 'Little Journeys to the Homes of the Great, Volume 7
+
+  Little Journeys to the Homes of Eminent Orators'
+url: http://www.gutenberg.org/ebooks/23761
