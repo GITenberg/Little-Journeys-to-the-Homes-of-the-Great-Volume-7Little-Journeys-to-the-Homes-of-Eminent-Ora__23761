@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/228
     wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23761#Little-Journeys-to-the-Homes-of-the-Great-Volume-7Little-Journeys-to-the-Homes-of-Eminent-Ora_
 gutenberg_issued: '2007-12-07'
 gutenberg_type: Text
 identifiers:
